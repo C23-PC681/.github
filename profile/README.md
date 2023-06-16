@@ -1,6 +1,3 @@
-## SehatYuk
-An app to make better lifestyle and health
-
 # SehatYuk
 
 SehatYuk is an app to make better lifestyle and health by giving user some exercise recommendation based on their characteristics.
